@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pairs",
+            "request": "launch",
+            "mainClass": "Array.pairs",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "reverse_arr",
+            "request": "launch",
+            "mainClass": "Array.reverse_arr",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "Array.binary_search",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "Array.largest",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "linearr",
+            "request": "launch",
+            "mainClass": "Array.linearr",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "ref_array",
+            "request": "launch",
+            "mainClass": "Array.ref_array",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "ArrDeclaration",
+            "request": "launch",
+            "mainClass": "Array.ArrDeclaration",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
