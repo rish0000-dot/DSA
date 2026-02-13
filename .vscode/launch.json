@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "Assisgment.arr",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "buy_sell_stock",
+            "request": "launch",
+            "mainClass": "DSA_SHEET.buy_sell_stock",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "traping_rain",
+            "request": "launch",
+            "mainClass": "DSA_SHEET.traping_rain",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "kadanes_subarrayy",
+            "request": "launch",
+            "mainClass": "Array.kadanes_subarrayy",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "prefix_subarrayy",
+            "request": "launch",
+            "mainClass": "Array.prefix_subarrayy",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "prefix_subarray",
+            "request": "launch",
+            "mainClass": "Array.prefix_subarray",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "max_subarray",
+            "request": "launch",
+            "mainClass": "Array.max_subarray",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "Array.subarray",
+            "projectName": "DSA_8511c169"
+        },
+        {
+            "type": "java",
             "name": "pairs",
             "request": "launch",
             "mainClass": "Array.pairs",
