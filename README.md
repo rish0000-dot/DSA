@@ -52,3 +52,15 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## 👤 <span style="font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold;">Author</span>
 
 <b>Rishabh Sharma</b>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+<!---LeetCode Topics End-->
