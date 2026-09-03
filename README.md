@@ -58,6 +58,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
@@ -65,6 +66,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -77,4 +79,12 @@ Perfect for students and professionals preparing for coding interviews, academic
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
