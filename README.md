@@ -56,8 +56,8 @@ Perfect for students and professionals preparing for coding interviews, academic
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -66,31 +66,43 @@ Perfect for students and professionals preparing for coding interviews, academic
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rish0000-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rish0000-dot/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rish0000-dot/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/rish0000-dot/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rish0000-dot/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
