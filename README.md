@@ -102,6 +102,7 @@ Perfect for students and professionals preparing for coding interviews, academic
 | ------- |
 | [0062-unique-paths](https://github.com/rish0000-dot/DSA/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -110,8 +111,10 @@ Perfect for students and professionals preparing for coding interviews, academic
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rish0000-dot/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rish0000-dot/DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
